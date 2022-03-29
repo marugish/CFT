@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CFT_2</string>
+    <string name="title_home">Rates</string>
+    <string name="title_dashboard">Exchange</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="CharCode">CharCode</string>
+    <string name="Name">Name</string>
+    <string name="Nominal">Nominal</string>
+    <string name="Value">Value</string>
+    <string name="Rates">Rates</string>
+    <string name="Change">Change</string>
+    <string name="todo">TODO</string>
+    <string name="Converter">Converter</string>
+    <string name="From">From:</string>
+    <string name="To">To:</string>
+    <string name="Amount">Amount:</string>
+    <string name="Result">Result: </string>
+    <string name="String">String</string>
+    <string name="Number">0.0</string>
+</resources>
